@@ -31,10 +31,10 @@ Brooklyn Rebar, Williamsburg, NY
 
 **Project Coordinator**
 
-- Implemented processes to obtain CAD files to reduce time, cost and accuracy of drafting and detailing by up to 30%
+- Implemented processes to obtain CAD files to reduce time, cost and accuracy of drafting and detailing by up to 30%.
 - Decreased detailing costs by up to 50% by implementing value engineering techniques.
 - Developed plan section, detail and elevation templates for increased productivity.
-- Increased shipping capacity, saved time and reduced costs by bundling material 
+- Increased shipping capacity, saved time and reduced costs by bundling material.
 - Delegated team members to various portions of project to reduce project timelines.
 - Coordinated with various internal team and external associates to ensure efficiency in providing a quality product and optimum service to the customer in a timely fashion.
 - Drove down client complaints by updating all parties involved regularly.
